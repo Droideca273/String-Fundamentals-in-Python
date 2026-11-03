@@ -2,6 +2,7 @@
     "conventionalCommits.scopes": [
         "argumentos",
         "scopes",
-        "lists"
+        "lists",
+        "dic"
     ]
 }
